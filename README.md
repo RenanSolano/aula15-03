@@ -4,7 +4,7 @@
 
 ## Experiencia
 
--Alu. Unimar
--ex aluno Etec
+- Alu. Unimar
+- ex aluno Etec
 
 ---
