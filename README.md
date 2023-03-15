@@ -10,3 +10,11 @@
 - Endereço: Av. Eu Sou Lindo  n°777
 
 ---
+
+## Experiencia
+
+- Alu. Unimar
+- ex aluno Etec
+
+---
+
