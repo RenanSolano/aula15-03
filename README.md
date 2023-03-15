@@ -5,5 +5,6 @@
 ##Experiencia
 
 -Alu. Unimar
+-ex aluno Etec
 
 ---
